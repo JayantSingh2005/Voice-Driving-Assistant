@@ -1,0 +1,29 @@
+faster-whisper
+edge-tts (removed, using gTTS instead)
+aiofiles
+pydub
+torch
+transformers
+fastapi
+uvicorn
+numpy
+httpx
+langdetect
+gtts
+google-generativeai (removed, using Together API/Gemma-2)
+polyline
+requests
+scipy
+sounddevice
+webrtcvad
+pyttsx3 (removed, not used)
+python-multipart
+python-dotenv
+collections-extended 
+scikit-learn
+loguru
+ujson
+# Optional: if you use OpenRouteService for geocoding/routing
+# openrouteservice
+# Optional: explicit pydantic version (FastAPI uses it internally)
+# pydantic 
